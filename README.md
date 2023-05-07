@@ -11,8 +11,8 @@ npm run develop
 # or
 yarn develop
 ```
-Add to your .env/
-STRIPE_KEY={{your key from Stripe}}
+Add to your .env\
+STRIPE_KEY={{your key from Stripe}} \
 CLIENT_URL={{your client url}} e.g http://localhost:3000
 
 
