@@ -30,5 +30,5 @@ services:
         generateValue: true
       - key: STRIPE_KEY
         value: sk_test_51N5CMQCF9lsfNwOvhxi2dr0gem8Nn6n5COxNZJWPuKn6R0j92ReMZpfaWi0bwiYQrPE4rULUOENAlgMTjorgPW0S00WHxixlmQ
-      - key: TRANSFER_TOKEN_SALT
+      - key: CLIENT_URL
         value: https://photoland-frontend.onrender.com
