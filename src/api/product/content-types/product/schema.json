@@ -40,6 +40,9 @@
       "relation": "manyToMany",
       "target": "api::category.category",
       "inversedBy": "products"
+    },
+    "isOnSale": {
+      "type": "boolean"
     }
   }
 }
