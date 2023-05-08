@@ -23,6 +23,9 @@
     },
     "isOnPromote": {
       "type": "boolean"
+    },
+    "discount": {
+      "type": "integer"
     }
   }
 }
